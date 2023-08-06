@@ -1,0 +1,14 @@
+{
+  "name": "l2exjs",
+  "version": "1.0.0",
+  "description": "L2",
+  "main": "nav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
